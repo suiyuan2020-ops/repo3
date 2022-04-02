@@ -11,6 +11,6 @@ public class FisrtClass {
     }
 
     public void test1(){
-        int j=0;
+        int s=0;
     }
 }
