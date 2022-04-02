@@ -9,4 +9,8 @@ public class FisrtClass {
     public void test(){
         int i=0;
     }
+
+    public void test1(){
+        int j=0;
+    }
 }
